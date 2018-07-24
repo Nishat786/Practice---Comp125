@@ -6,7 +6,7 @@
 
     function Start() {
 
-        var title = document.title;
+        let title = document.title;
 
         console.log("App Started!");
         console.log("------------------");
